@@ -1,4 +1,4 @@
-e-commercce with product app works.
+e-commercce with product app works. store depends on working mvc control
 
 e-commerce using with node mongoose and express
 # React + Vite vite using jsx content and node js
