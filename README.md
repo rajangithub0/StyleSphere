@@ -1,6 +1,7 @@
 e-commercce with product app works. store depends on working mvc control
 
 e-commerce using with node mongoose and express
+make navbar and home page
 # React + Vite vite using jsx content and node js
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
