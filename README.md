@@ -1,6 +1,6 @@
 e-commercce with product app works. store depends on working mvc control
 
-e-commerce using with node mongoose and express
+e-commerce using with node mongoose and expres make admin and user
 make navbar and home page
 # React + Vite vite using jsx content and node js
 
