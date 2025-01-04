@@ -1,4 +1,4 @@
-e-commercce with product app works. store depends on working mvc control
+e-commercce with product app works. store depends on working mvc control make login and register functional. 
 
 e-commerce using with node mongoose and expres make admin and user
 make navbar and home page
